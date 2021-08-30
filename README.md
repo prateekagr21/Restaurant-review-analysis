@@ -24,7 +24,7 @@
 - predicted the test scores.
 - Plotted the prediction.
 - `Prediction plot gave a Normal Distribution curve.`
-- Plotted the Best fit line for the model.
+- Plotted the Best fit line for the model...
 - Calculated Mean Absolute error and Root Mean Squared Error.
 
 
