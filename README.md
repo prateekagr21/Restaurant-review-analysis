@@ -25,7 +25,7 @@
 - Plotted the prediction.
 - `Prediction plot gave a Normal Distribution curve.`
 - Plotted the Best fit line for the model...
-- Calculated Mean Absolute error and Root Mean Squared Error.
+- Calculated Mean Absolute error and Root Mean Squared Error!
 
 
 ### _Extra Trees Regressor_
