@@ -6,7 +6,7 @@
 ## For Solving this Usecase, What I have done is :
 - Collected the data and organized it to form a meaningful dataset.
 - Checked for null values and took care of it.
-- Observed the data to form meaningful insights.
+- Observed the data to form meaningful insights!
 <br><br>
 - Did Exploratory Data Analysis on the dataset.
 - Used correlations to form a heatmap.
